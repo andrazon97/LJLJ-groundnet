@@ -1,0 +1,591 @@
+<?xml version="1.0"?>
+<groundnet>
+  <frequencies>
+    <TOWER>11800</TOWER>
+    <TOWER>11875</TOWER>
+    <APPROACH>13527</APPROACH>
+    <APPROACH>13600</APPROACH>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="gate"
+             name="1"
+             number=""
+             lat="N46 13.763"
+             lon="E14 27.366"
+             heading="35"
+             radius="10"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="gate"
+             name="2"
+             number=""
+             lat="N46 13.776"
+             lon="E14 27.344"
+             heading="35"
+             radius="26"
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="gate"
+             name="3"
+             number=""
+             lat="N46 13.789"
+             lon="E14 27.314"
+             heading="35"
+             radius="26"
+             airlineCodes="" />
+
+    <Parking index="3"
+             type="gate"
+             name="4"
+             number=""
+             lat="N46 13.804"
+             lon="E14 27.287"
+             heading="35"
+             radius="26"
+             airlineCodes="" />
+
+    <Parking index="4"
+             type="gate"
+             name="5"
+             number=""
+             lat="N46 13.818"
+             lon="E14 27.258"
+             heading="35"
+             radius="26"
+             airlineCodes="" />
+
+    <Parking index="5"
+             type="gate"
+             name="6"
+             number=""
+             lat="N46 13.833"
+             lon="E14 27.231"
+             heading="35"
+             radius="26"
+             airlineCodes="" />
+
+    <Parking index="6"
+             type="gate"
+             name="7"
+             number=""
+             lat="N46 13.849"
+             lon="E14 27.203"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+
+    <Parking index="7"
+             type="gate"
+             name="8"
+             number=""
+             lat="N46 13.863"
+             lon="E14 27.174"
+             heading="35"
+             radius="26"
+             airlineCodes="" />
+
+    <Parking index="8"
+             type="gate"
+             name="9"
+             number=""
+             lat="N46 13.881"
+             lon="E14 27.140"
+             heading="35"
+             radius="26"
+             airlineCodes="" />
+
+    <Parking index="9"
+             type="gate"
+             name="10"
+             number=""
+             lat="N46 13.895"
+             lon="E14 27.112"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+
+    <Parking index="10"
+             type="gate"
+             name="11"
+             number=""
+             lat="N46 13.909"
+             lon="E14 27.084"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+
+    <Parking index="11"
+             type="gate"
+             name="12"
+             number=""
+             lat="N46 13.921"
+             lon="E14 27.060"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+
+    <Parking index="12"
+             type="gate"
+             name="13"
+             number=""
+             lat="N46 13.952"
+             lon="E14 27.035"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="13"
+             type="gate"
+             name="13A"
+             number=""
+             lat="N46 13.966"
+             lon="E14 27.032"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="14"
+             type="gate"
+             name="14"
+             number=""
+             lat="N46 13.972"
+             lon="E14 27.011"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="15"
+             type="gate"
+             name="15"
+             number=""
+             lat="N46 13.987"
+             lon="E14 26.982"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="16"
+             type="gate"
+             name="15A"
+             number=""
+             lat="N46 13.987"
+             lon="E14 26.992"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="17"
+             type="gate"
+             name="31"
+             number=""
+             lat="N46 13.706"
+             lon="E14 27.329"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="18"
+             type="gate"
+             name="32"
+             number=""
+             lat="N46 13.731"
+             lon="E14 27.281"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="19"
+             type="gate"
+             name="32A"
+             number=""
+             lat="N46 13.712"
+             lon="E14 27.318"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="20"
+             type="gate"
+             name="32B"
+             number=""
+             lat="N46 13.718"
+             lon="E14 27.306"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="21"
+             type="gate"
+             name="33"
+             number=""
+             lat="N46 13.764"
+             lon="E14 27.214"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="22"
+             type="gate"
+             name="34"
+             number=""
+             lat="N46 13.780"
+             lon="E14 27.182"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="23"
+             type="gate"
+             name="35"
+             number=""
+             lat="N46 13.797"
+             lon="E14 27.153"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="24"
+             type="gate"
+             name="36"
+             number=""
+             lat="N46 13.828"
+             lon="E14 27.087"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="25"
+             type="gate"
+             name="37"
+             number=""
+             lat="N46 13.844"
+             lon="E14 27.058"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="26"
+             type="gate"
+             name="38"
+             number=""
+             lat="N46 13.867"
+             lon="E14 27.018"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="27"
+             type="gate"
+             name="38L"
+             number=""
+             lat="N46 13.872"
+             lon="E14 27.006"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="28"
+             type="gate"
+             name="38R"
+             number=""
+             lat="N46 13.861"
+             lon="E14 27.029"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="29"
+             type="gate"
+             name="39"
+             number=""
+             lat="N46 13.912"
+             lon="E14 26.940"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="30"
+             type="gate"
+             name="40"
+             number=""
+             lat="N46 13.927"
+             lon="E14 26.911"
+             heading="35"
+             radius="22.5"
+             airlineCodes="" />
+			
+	<Parking index="31"
+             type="gate"
+             name="G9"
+             number=""
+             lat="N46 13.615"
+             lon="E14 27.653"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+
+    <Parking index="32"
+             type="gate"
+             name="G10"
+             number=""
+             lat="N46 13.607"
+             lon="E14 27.645"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+
+    <Parking index="33"
+             type="gate"
+             name="G11"
+             number=""
+             lat="N46 13.597"
+             lon="E14 27.635"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+
+    <Parking index="34"
+             type="gate"
+             name="G12"
+             number=""
+             lat="N46 13.630"
+             lon="E14 27.623"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="35"
+             type="gate"
+             name="G13"
+             number=""
+             lat="N46 13.622"
+             lon="E14 27.614"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="36"
+             type="gate"
+             name="G14"
+             number=""
+             lat="N46 13.613"
+             lon="E14 27.604"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="37"
+             type="gate"
+             name="G15"
+             number=""
+             lat="N46 13.646"
+             lon="E14 27.592"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="38"
+             type="gate"
+             name="G16"
+             number=""
+             lat="N46 13.638"
+             lon="E14 27.583"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="39"
+             type="gate"
+             name="G17"
+             number=""
+             lat="N46 13.629"
+             lon="E14 27.573"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="40"
+             type="gate"
+             name="G18"
+             number=""
+             lat="N46 13.582"
+             lon="E14 27.586"
+             heading="215"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="41"
+             type="gate"
+             name="G19"
+             number=""
+             lat="N46 13.589"
+             lon="E14 27.572"
+             heading="215"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="42"
+             type="gate"
+             name="G20"
+             number=""
+             lat="N46 13.596"
+             lon="E14 27.559"
+             heading="215"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="43"
+             type="gate"
+             name="G21"
+             number=""
+             lat="N46 13.606"
+             lon="E14 27.539"
+             heading="215"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="44"
+             type="gate"
+             name="D1"
+             number=""
+             lat="N46 13.669"
+             lon="E14 27.550"
+             heading="75"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="45"
+             type="gate"
+             name="D3"
+             number=""
+             lat="N46 13.637"
+             lon="E14 27.581"
+             heading="80"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="46"
+             type="gate"
+             name="H1"
+             number=""
+             lat="N46 13.557"
+             lon="E14 27.626"
+             heading="215"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="47"
+             type="gate"
+             name="H2"
+             number=""
+             lat="N46 13.568"
+             lon="E14 27.604"
+             heading="215"
+             radius="22.5"
+             airlineCodes="" />
+			 
+	<Parking index="48"
+             type="gate"
+             name="H3"
+             number=""
+             lat="N46 13.558"
+             lon="E14 27.590"
+             heading="125"
+             radius="22.5"
+             airlineCodes="" />
+	
+	<Parking index="49"
+             type="gate"
+             name="1A"
+             number=""
+             lat="N46 13.766"
+             lon="E14 27.366"
+             heading="80"
+             radius="22.5"
+             airlineCodes="" />
+	
+	<Parking index="50"
+             type="gate"
+             name="3A"
+             number=""
+             lat="N46 13.793"
+             lon="E14 27.313"
+             heading="335"
+             radius="22.5"
+             airlineCodes="" />
+
+  </parkingList>
+  <TaxiNodes>
+    <node index="13" lat="N46 13.778" lon="E14 26.965" isOnRunway="0" holdPointType="none" />
+    <node index="14" lat="N46 13.738" lon="E14 27.040" isOnRunway="0" holdPointType="none" />
+    <node index="15" lat="N46 13.705" lon="E14 27.118" isOnRunway="0" holdPointType="none" />
+    <node index="16" lat="N46 13.650" lon="E14 27.074" isOnRunway="0" holdPointType="none" />
+    <node index="17" lat="N46 13.684" lon="E14 27.181" isOnRunway="0" holdPointType="none" />
+    <node index="18" lat="N46 13.663" lon="E14 27.242" isOnRunway="0" holdPointType="none" />
+    <node index="19" lat="N46 13.646" lon="E14 27.282" isOnRunway="0" holdPointType="none" />
+    <node index="20" lat="N46 13.618" lon="E14 27.344" isOnRunway="0" holdPointType="none" />
+    <node index="21" lat="N46 13.593" lon="E14 27.386" isOnRunway="0" holdPointType="none" />
+    <node index="22" lat="N46 13.550" lon="E14 27.279" isOnRunway="0" holdPointType="none" />
+    <node index="23" lat="N46 13.967" lon="E14 26.464" isOnRunway="0" holdPointType="none" />
+    <node index="24" lat="N46 13.943" lon="E14 26.438" isOnRunway="1" holdPointType="none" />
+    <node index="25" lat="N46 12.949" lon="E14 28.505" isOnRunway="0" holdPointType="none" />
+    <node index="26" lat="N46 12.903" lon="E14 28.472" isOnRunway="1" holdPointType="none" />
+  </TaxiNodes>
+  <TaxiWaySegments>
+    <arc begin="6" end="13" isPushBackRoute="0" name="" />
+    <arc begin="13" end="6" isPushBackRoute="0" name="" />
+    <arc begin="13" end="14" isPushBackRoute="0" name="" />
+    <arc begin="14" end="13" isPushBackRoute="0" name="" />
+    <arc begin="14" end="15" isPushBackRoute="0" name="" />
+    <arc begin="15" end="14" isPushBackRoute="0" name="" />
+    <arc begin="15" end="16" isPushBackRoute="0" name="" />
+    <arc begin="16" end="15" isPushBackRoute="0" name="" />
+    <arc begin="15" end="17" isPushBackRoute="0" name="" />
+    <arc begin="17" end="15" isPushBackRoute="0" name="" />
+    <arc begin="17" end="18" isPushBackRoute="0" name="" />
+    <arc begin="18" end="17" isPushBackRoute="0" name="" />
+    <arc begin="18" end="19" isPushBackRoute="0" name="" />
+    <arc begin="19" end="18" isPushBackRoute="0" name="" />
+    <arc begin="19" end="20" isPushBackRoute="0" name="" />
+    <arc begin="20" end="19" isPushBackRoute="0" name="" />
+    <arc begin="20" end="21" isPushBackRoute="0" name="" />
+    <arc begin="21" end="20" isPushBackRoute="0" name="" />
+    <arc begin="13" end="7" isPushBackRoute="0" name="" />
+    <arc begin="7" end="13" isPushBackRoute="0" name="" />
+    <arc begin="14" end="0" isPushBackRoute="0" name="" />
+    <arc begin="0" end="14" isPushBackRoute="0" name="" />
+    <arc begin="1" end="14" isPushBackRoute="0" name="" />
+    <arc begin="14" end="1" isPushBackRoute="0" name="" />
+    <arc begin="15" end="2" isPushBackRoute="0" name="" />
+    <arc begin="2" end="15" isPushBackRoute="0" name="" />
+    <arc begin="17" end="9" isPushBackRoute="0" name="" />
+    <arc begin="9" end="17" isPushBackRoute="0" name="" />
+    <arc begin="3" end="17" isPushBackRoute="0" name="" />
+    <arc begin="17" end="3" isPushBackRoute="0" name="" />
+    <arc begin="4" end="18" isPushBackRoute="0" name="" />
+    <arc begin="18" end="4" isPushBackRoute="0" name="" />
+    <arc begin="10" end="18" isPushBackRoute="0" name="" />
+    <arc begin="18" end="10" isPushBackRoute="0" name="" />
+    <arc begin="5" end="19" isPushBackRoute="0" name="" />
+    <arc begin="19" end="5" isPushBackRoute="0" name="" />
+    <arc begin="11" end="19" isPushBackRoute="0" name="" />
+    <arc begin="19" end="11" isPushBackRoute="0" name="" />
+    <arc begin="8" end="20" isPushBackRoute="0" name="" />
+    <arc begin="20" end="8" isPushBackRoute="0" name="" />
+    <arc begin="21" end="12" isPushBackRoute="0" name="" />
+    <arc begin="12" end="21" isPushBackRoute="0" name="" />
+    <arc begin="20" end="22" isPushBackRoute="0" name="" />
+    <arc begin="22" end="20" isPushBackRoute="0" name="" />
+    <arc begin="16" end="23" isPushBackRoute="0" name="" />
+    <arc begin="23" end="16" isPushBackRoute="0" name="" />
+    <arc begin="23" end="24" isPushBackRoute="0" name="" />
+    <arc begin="24" end="23" isPushBackRoute="0" name="" />
+    <arc begin="22" end="25" isPushBackRoute="0" name="" />
+    <arc begin="25" end="22" isPushBackRoute="0" name="" />
+    <arc begin="25" end="26" isPushBackRoute="0" name="" />
+    <arc begin="26" end="25" isPushBackRoute="0" name="" />
+  </TaxiWaySegments>
+</groundnet>
