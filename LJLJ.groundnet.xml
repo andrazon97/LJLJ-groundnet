@@ -715,31 +715,31 @@
     <arc begin="70" end="71" isPushBackRoute="0" name="" />
     <arc begin="71" end="70" isPushBackRoute="0" name="" />
 	
-    <arc begin="1" end="52" isPushBackRoute="1" name="" />
+    <arc begin="0" end="52" isPushBackRoute="1" name="" />
     <arc begin="52" end="51" isPushBackRoute="1" name="" />
-    <arc begin="2" end="53" isPushBackRoute="1" name="" />
+    <arc begin="1" end="53" isPushBackRoute="1" name="" />
     <arc begin="53" end="52" isPushBackRoute="1" name="" />
-    <arc begin="3" end="54" isPushBackRoute="1" name="" />
+    <arc begin="2" end="54" isPushBackRoute="1" name="" />
     <arc begin="54" end="53" isPushBackRoute="1" name="" />
-    <arc begin="4" end="55" isPushBackRoute="1" name="" />
-	<arc begin="55" end="56" isPushBackRoute="1" name="" />
-    <arc begin="5" end="56" isPushBackRoute="1" name="" />
+    <arc begin="3" end="55" isPushBackRoute="1" name="" />
+    <arc begin="55" end="56" isPushBackRoute="1" name="" />
+    <arc begin="4" end="56" isPushBackRoute="1" name="" />
     <arc begin="56" end="57" isPushBackRoute="1" name="" />
-    <arc begin="6" end="57" isPushBackRoute="1" name="" />
+    <arc begin="5" end="57" isPushBackRoute="1" name="" />
     <arc begin="57" end="58" isPushBackRoute="1" name="" />
-    <arc begin="7" end="58" isPushBackRoute="1" name="" />
+    <arc begin="6" end="58" isPushBackRoute="1" name="" />
     <arc begin="58" end="57" isPushBackRoute="1" name="" />
-	<arc begin="8" end="59" isPushBackRoute="1" name="" />
+    <arc begin="7" end="59" isPushBackRoute="1" name="" />
     <arc begin="59" end="58" isPushBackRoute="1" name="" />
-    <arc begin="9" end="60" isPushBackRoute="1" name="" />
+    <arc begin="8" end="60" isPushBackRoute="1" name="" />
     <arc begin="60" end="61" isPushBackRoute="1" name="" />
-    <arc begin="10" end="61" isPushBackRoute="1" name="" />
+    <arc begin="9" end="61" isPushBackRoute="1" name="" />
     <arc begin="61" end="62" isPushBackRoute="1" name="" />
-    <arc begin="11" end="62" isPushBackRoute="1" name="" />
-	<arc begin="62" end="61" isPushBackRoute="1" name="" />
-    <arc begin="12" end="63" isPushBackRoute="1" name="" />
+    <arc begin="10" end="62" isPushBackRoute="1" name="" />
+    <arc begin="62" end="61" isPushBackRoute="1" name="" />
+    <arc begin="11" end="63" isPushBackRoute="1" name="" />
     <arc begin="63" end="62" isPushBackRoute="1" name="" />
-    <arc begin="13" end="64" isPushBackRoute="1" name="" />
+    <arc begin="12" end="64" isPushBackRoute="1" name="" />
     <arc begin="64" end="63" isPushBackRoute="1" name="" />
 	
   </TaxiWaySegments>
